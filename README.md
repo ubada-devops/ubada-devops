@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://dev-folio-lite.vercel.app/" target="_blank">
-    <img src="https://img.shields.org/badge/Portfolio-devfolio--lite.vercel.app-121013?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.org/badge/Portfolio-dev--folio--lite.vercel.app-121013?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/ubada-devops" target="_blank">
     <img src="https://img.shields.org/badge/LinkedIn-ubada--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
