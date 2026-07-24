@@ -4,7 +4,7 @@
     .header { font-family: monospace; font-size: 12px; fill: #8b949e; }
     .key { font-family: monospace; font-size: 13px; font-weight: bold; }
     .val { font-family: monospace; font-size: 13px; }
-    .row { opacity: 0; }
+    @keyframes fadeIn { to { opacity: 1; } }
   </style>
   <rect width="100%" height="100%" class="bg" rx="6" />
   <circle cx="20" cy="20" r="5" fill="#ff5f56" />
@@ -12,25 +12,24 @@
   <circle cx="50" cy="20" r="5" fill="#27c93f" />
   <text x="70" y="24" class="header">ubada-devops@terminal ~ sysinfo</text>
   <line x1="0" y1="38" x2="100%" y2="38" stroke="#30363d" stroke-width="1" />
-  <g class="row" style="animation: fadeIn 0.5s forwards 0.2s;">
+  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 0.2s;">
     <text x="20" y="70" class="key" fill="#79c0ff">user    :</text>
     <text x="100" y="70" class="val" fill="#a5d6ff">ubada-devops</text>
   </g>
-  <g class="row" style="animation: fadeIn 0.5s forwards 0.5s;">
+  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 0.5s;">
     <text x="20" y="100" class="key" fill="#79c0ff">role    :</text>
     <text x="100" y="100" class="val" fill="#a5d6ff">DevOps Engineer</text>
   </g>
-  <g class="row" style="animation: fadeIn 0.5s forwards 0.8s;">
+  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 0.8s;">
     <text x="20" y="130" class="key" fill="#79c0ff">focus   :</text>
     <text x="100" y="130" class="val" fill="#a5d6ff">CI/CD Pipelines & Cloud Automation</text>
   </g>
-  <g class="row" style="animation: fadeIn 0.5s forwards 1.1s;">
+  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 1.1s;">
     <text x="20" y="160" class="key" fill="#79c0ff">stack   :</text>
-    <text x="100" y="160" class="val" fill="#a5d6ff">Python · Docker · Kubernetes · Linux · Git</text>
+    <text x="100" y="160" class="val" fill="#a5d6ff">Python Â· Docker Â· Kubernetes Â· Linux Â· Git</text>
   </g>
-  <g class="row" style="animation: fadeIn 0.5s forwards 1.4s;">
+  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 1.4s;">
     <text x="20" y="190" class="key" fill="#79c0ff">now     :</text>
     <text x="100" y="190" class="val" fill="#a5d6ff">Solving DSA Blind 75 & automation workflows</text>
   </g>
-  <style> @keyframes fadeIn { to { opacity: 1; } } </style>
 </svg>
