@@ -5,42 +5,43 @@
     .status-text { font-family: monospace; font-size: 11px; font-weight: bold; fill: #23d160; }
     .key { font-family: monospace; font-size: 13px; font-weight: bold; }
     .val { font-family: monospace; font-size: 13px; }
-    @keyframes fadeIn { to { opacity: 1; } }
-    @keyframes pulse {
-      0% { r: 4px; opacity: 1; }
-      70% { r: 9px; opacity: 0; }
-      100% { r: 4px; opacity: 0; }
-    }
-    .ping-ring { animation: pulse 2s infinite ease-out; stroke: #23d160; stroke-width: 1.5px; fill: none; }
   </style>
   <rect width="100%" height="100%" class="bg" rx="6" />
-  <!-- Terminal Window Controls -->
+  <!-- Controls -->
   <circle cx="20" cy="20" r="5" fill="#ff5f56" />
   <circle cx="35" cy="20" r="5" fill="#ffbd2e" />
   <circle cx="50" cy="20" r="5" fill="#27c93f" />
   <text x="70" y="24" class="header">ubada-devops@terminal ~ sysinfo</text>
-  <!-- Live Status Pulse Badge (Top Right) -->
+  <!-- Live Status Ping (SMIL Animation) -->
   <circle cx="375" cy="20" r="4" fill="#23d160" />
-  <circle cx="375" cy="20" class="ping-ring" />
+  <circle cx="375" cy="20" r="4" fill="none" stroke="#23d160" stroke-width="1.5">
+    <animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" />
+  </circle>
   <text x="387" y="24" class="status-text">ONLINE</text>
   <line x1="0" y1="38" x2="100%" y2="38" stroke="#30363d" stroke-width="1" />
-  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 0.2s;">
+  <g class="row">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze" />
     <text x="20" y="70" class="key" fill="#79c0ff">user    :</text>
     <text x="100" y="70" class="val" fill="#a5d6ff">ubada-devops</text>
   </g>
-  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 0.5s;">
+  <g class="row">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" />
     <text x="20" y="100" class="key" fill="#79c0ff">role    :</text>
     <text x="100" y="100" class="val" fill="#a5d6ff">DevOps Engineer</text>
   </g>
-  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 0.8s;">
+  <g class="row">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.8s" fill="freeze" />
     <text x="20" y="130" class="key" fill="#79c0ff">focus   :</text>
     <text x="100" y="130" class="val" fill="#a5d6ff">CI/CD Pipelines & Cloud Automation</text>
   </g>
-  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 1.1s;">
+  <g class="row">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.1s" fill="freeze" />
     <text x="20" y="160" class="key" fill="#79c0ff">stack   :</text>
     <text x="100" y="160" class="val" fill="#a5d6ff">Python · Docker · Kubernetes · Linux · Git</text>
   </g>
-  <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 1.4s;">
+  <g class="row">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze" />
     <text x="20" y="190" class="key" fill="#79c0ff">now     :</text>
     <text x="100" y="190" class="val" fill="#a5d6ff">Solving DSA Blind 75 & automation workflows</text>
   </g>
