@@ -44,18 +44,13 @@
 
 <br>
 
-<!-- 5. Portfolio Preview Card -->
+<!-- 5. Interactive Image Preview Card for Version 2 Portfolio -->
+<h3><code>$ open https://syed-Ubada.vercel.app</code></h3>
+
 <a href="https://syed-Ubada.vercel.app" target="_blank">
-  <table border="1" style="border-collapse: collapse; width: 90%;">
-    <tr>
-      <td align="center" padding="10">
-        <code>$ open https://syed-Ubada.vercel.app</code><br>
-        <b>?? Live Portfolio: DevFolio Lite</b><br>
-        <sub>Click to launch live preview and inspect production projects ??</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="./portfolio-preview.png" alt="Syed Ubada Portfolio v2 Preview" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
 </a>
+<p><sub>?? Click image above to visit Live Portfolio v2</sub></p>
 
 <br><br>
 
