@@ -1,26 +1,35 @@
 <div align="center">
 
-<h3><code>$ connect --all</code></h3>
+<pre>
+<b>
+ _   _ ____    ____ ___  ____  _____ ____  
+| | | | __ )  / ___/ _ \|  _ \| ____/ ___| 
+| | | |  _ \ | |  | | | | | | |  _| \___ \ 
+| |_| | |_) || |__| |_| | |_| | |___ ___) |
+ \___/|____/  \____\___/|____/|_____|____/ 
+</b>
+</pre>
 
-<p>
-  <a href="https://dev-folio-lite.vercel.app/" target="_blank">
-    <kbd>?? Portfolio</kbd>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/ubada-devops" target="_blank">
-    <kbd>?? LinkedIn</kbd>
-  </a>
-  &nbsp;
-  <a href="https://x.com/Ubada_DevOps" target="_blank">
-    <kbd>?? X / Twitter</kbd>
-  </a>
-  &nbsp;
-  <a href="mailto:ubada.devops@gmail.com">
-    <kbd>?? Email</kbd>
-  </a>
-</p>
+<p><code>? Consistency is a Superpower</code></p>
 
 <br>
+
+<!-- Portfolio Preview Card -->
+<a href="https://syed-Ubada.vercel.app" target="_blank">
+  <table border="1" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" padding="10">
+        <code>$ open https://syed-Ubada.vercel.app</code>
+        <br>
+        <b>?? Live Portfolio: DevFolio Lite</b>
+        <br>
+        <sub>Click to launch live preview and view projects ??</sub>
+      </td>
+    </tr>
+  </table>
+</a>
+
+<br><br>
 
 <h3><code>$ whoami --verbose</code></h3>
 
