@@ -21,24 +21,24 @@
 
 <br>
 
-<!-- 4. Click Me Heading & High-Visibility Brand Badges -->
+<!-- 4. Click Me Heading & Official Brand Logos -->
 <h3><code>$ click_me --connect</code></h3>
 
 <p>
   <a href="https://syed-Ubada.vercel.app" target="_blank">
-    <img src="https://img.shields.org/badge/Portfolio-DevFolio--Lite-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="./portfolio.svg" alt="Portfolio" width="48" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ubada-devops" target="_blank">
-    <img src="https://img.shields.org/badge/LinkedIn-ubada--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./linkedin.svg" alt="LinkedIn" width="48" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Ubada_DevOps" target="_blank">
-    <img src="https://img.shields.org/badge/X-@Ubada__DevOps-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    <img src="./x_twitter.svg" alt="X / Twitter" width="48" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ubada.devops@gmail.com">
-    <img src="https://img.shields.org/badge/Email-ubada.devops@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./email.svg" alt="Email" width="48" height="48" />
   </a>
 </p>
 
