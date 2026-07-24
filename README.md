@@ -10,10 +10,8 @@
 </b>
 </pre>
 
-<p><code>⚡ Consistency is a Superpower | DevOps Engineer & Automation Enthusiast</code></p>
-
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Automation+Enthusiast;Building+in+Public+%40+KodNest;Python+%2B+Docker+%2B+Kubernetes+%2B+CI%2FCD;Chasing+a+MAANG+SDE+Role" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Consistency+is+a+Superpower;DevOps+Engineer+%7C+Automation+Enthusiast;Building+in+Public+%40+KodNest;Python+%2B+Docker+%2B+Kubernetes+%2B+CI%2FCD;Chasing+a+MAANG+SDE+Role" alt="Typing SVG" />
 </p>
 
 <p>
@@ -57,7 +55,7 @@
 <a href="https://syed-Ubada.vercel.app" target="_blank">
   <img src="./portfolio-preview.png" alt="Syed Ubada Portfolio v2 Preview" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
 </a>
-<p><sub>👉 Click image above to visit Live Portfolio v2</sub></p>
+<p><sub>Click image above to visit Live Portfolio v2</sub></p>
 
 <br><br>
 
@@ -140,30 +138,21 @@
     <td>101</td>
     <td><b>DSA Blind 75</b> (Python Implementation)</td>
     <td><code>[60%]</code></td>
-    <td>🟢 RUNNING</td>
+    <td>RUNNING</td>
   </tr>
   <tr>
     <td>102</td>
     <td><b>CI/CD Pipeline Optimization</b></td>
     <td><code>[85%]</code></td>
-    <td>🟢 RUNNING</td>
+    <td>RUNNING</td>
   </tr>
   <tr>
     <td>103</td>
     <td><b>K8s Cluster Manifest Automation</b></td>
     <td><code>[50%]</code></td>
-    <td>🟡 IN PROGRESS</td>
+    <td>IN PROGRESS</td>
   </tr>
 </table>
-
-<br><br>
-
-<h3><code>$ ls ~/certs --badges</code></h3>
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=flat-square&logo=amazonaws" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-CKA%20Track-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
 
 <br><br>
 
@@ -193,8 +182,8 @@
     <tr>
       <td align="center" padding="10">
         <code>$ echo "Leave your mark in the guestbook!"</code><br>
-        <b>📝 Drop a Message / Sign Guestbook</b><br>
-        <sub>Click here to open a quick GitHub Issue & say hello 👋</sub>
+        <b>Drop a Message / Sign Guestbook</b><br>
+        <sub>Click here to open a quick GitHub Issue & say hello</sub>
       </td>
     </tr>
   </table>
@@ -211,7 +200,7 @@ Landing an SDE role at a top-tier tech company, backed by daily DSA practice and
 <details>
 <summary>Are you open to freelance / collab work?</summary>
 <br>
-Selectively — feel free to reach out via email or LinkedIn.
+Selectively - feel free to reach out via email or LinkedIn.
 </details>
 
 <br><br>
