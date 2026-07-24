@@ -12,9 +12,13 @@
 
 <p><code>? Consistency is a Superpower</code></p>
 
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ubada-devops.ubada-devops" alt="visitor badge" />
+</p>
+
 <br>
 
-<!-- Portfolio Preview Card -->
+<!-- Portfolio Launcher -->
 <a href="https://syed-Ubada.vercel.app" target="_blank">
   <table border="1" style="border-collapse: collapse;">
     <tr>
@@ -31,6 +35,7 @@
 
 <br><br>
 
+<!-- Terminal System Info Section -->
 <h3><code>$ whoami --verbose</code></h3>
 
 <table border="0">
@@ -43,6 +48,25 @@
     </td>
   </tr>
 </table>
+
+<br><br>
+
+<!-- Tech Stack & Tools -->
+<h3><code>$ list --tools --stack</code></h3>
+
+<p>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+</p>
 
 <br><br>
 
