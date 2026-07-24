@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <pre>
 <b>
@@ -10,7 +10,7 @@
 </b>
 </pre>
 
-<p><code>? Consistency is a Superpower | DevOps Engineer & Automation Enthusiast</code></p>
+<p><code>⚡ Consistency is a Superpower | DevOps Engineer & Automation Enthusiast</code></p>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Automation+Enthusiast;Building+in+Public+%40+KodNest;Python+%2B+Docker+%2B+Kubernetes+%2B+CI%2FCD;Chasing+a+MAANG+SDE+Role" alt="Typing SVG" />
@@ -57,7 +57,7 @@
 <a href="https://syed-Ubada.vercel.app" target="_blank">
   <img src="./portfolio-preview.png" alt="Syed Ubada Portfolio v2 Preview" width="90%" style="border-radius: 8px; border: 1px solid #30363d;" />
 </a>
-<p><sub>?? Click image above to visit Live Portfolio v2</sub></p>
+<p><sub>👉 Click image above to visit Live Portfolio v2</sub></p>
 
 <br><br>
 
@@ -110,11 +110,11 @@
 <h3><code>$ cat /proc/github_stats</code></h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ubada-devops&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ubada-devops&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubada-devops&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubada-devops&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubada-devops&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubada-devops&theme=github-dark&hide_border=true" alt="Activity Graph" width="48%" />
 </p>
 
@@ -122,7 +122,7 @@
 
 <h3><code>$ ls -la ~/achievements</code></h3>
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ubada-devops&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ubada-devops&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <br><br>
@@ -140,19 +140,19 @@
     <td>101</td>
     <td><b>DSA Blind 75</b> (Python Implementation)</td>
     <td><code>[60%]</code></td>
-    <td>?? RUNNING</td>
+    <td>🟢 RUNNING</td>
   </tr>
   <tr>
     <td>102</td>
     <td><b>CI/CD Pipeline Optimization</b></td>
     <td><code>[85%]</code></td>
-    <td>?? RUNNING</td>
+    <td>🟢 RUNNING</td>
   </tr>
   <tr>
     <td>103</td>
     <td><b>K8s Cluster Manifest Automation</b></td>
     <td><code>[50%]</code></td>
-    <td>?? IN PROGRESS</td>
+    <td>🟡 IN PROGRESS</td>
   </tr>
 </table>
 
@@ -193,8 +193,8 @@
     <tr>
       <td align="center" padding="10">
         <code>$ echo "Leave your mark in the guestbook!"</code><br>
-        <b>?? Drop a Message / Sign Guestbook</b><br>
-        <sub>Click here to open a quick GitHub Issue & say hello ??</sub>
+        <b>📝 Drop a Message / Sign Guestbook</b><br>
+        <sub>Click here to open a quick GitHub Issue & say hello 👋</sub>
       </td>
     </tr>
   </table>
