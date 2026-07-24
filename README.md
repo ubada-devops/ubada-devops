@@ -134,7 +134,7 @@ DevOps-focused engineer transitioning into full-stack + Gen AI development, aimi
   <tr>
     <td><b>Python Full Stack with Gen AI Tools</b></td>
     <td align="center">
-      <img src="https://kodnest.com/assets/kodnest-logo-RT8Q7clI.png" alt="KodNest Logo" height="35" />
+      <img src="./images.jpg" alt="KodNest Logo" height="35" style="border-radius: 4px;" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Format-Offline%20(Bangalore)-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
@@ -250,35 +250,6 @@ DevOps-focused engineer transitioning into full-stack + Gen AI development, aimi
   </tr>
 </table>
 <p><sub>Self-assessed levels - updated as skills develop through the KodNest track.</sub></p>
-
-<br><br>
-
-<h3><code>$ cat /proc/github_stats</code></h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ubada-devops&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubada-devops&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubada-devops&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubada-devops&theme=github-dark&hide_border=true" alt="Activity Graph" width="48%" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubada-devops&theme=github_dark" alt="Summary Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ubada-devops&theme=github_dark" alt="Most Commit Language" width="48%" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubada-devops&theme=github-compact&hide_border=true&custom_title=Isometric+Contribution+View" alt="Isometric Contribution View" width="90%" />
-</p>
-
-<br><br>
-
-<h3><code>$ ls -la ~/achievements</code></h3>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ubada-devops&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 <br><br>
 
@@ -499,7 +470,7 @@ Came in with a DevOps specialization from college, then added Python Full Stack 
 <p>
   <img src="https://img.shields.io/badge/Changelog-v2.5%20(Latest)-brightgreen?style=flat-square&logo=git&logoColor=white" alt="Changelog Version" />
   <br>
-  <sub>Last significant update: Added visual progress bars, KodNest official logo, roadmap status badges, and milestone shields.</sub>
+  <sub>Last significant update: switched KodNest logo to local repo asset `./images.jpg` and removed unstable external stats/trophy widgets.</sub>
 </p>
 
 <br><br>
