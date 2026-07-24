@@ -36,47 +36,6 @@
   <a href="https://syed-Ubada.vercel.app" target="_blank">
     <img src="./portfolio.svg" alt="Portfolio" width="48" height="48" />
   </a>
-
-@
-@'
-<div align="center">
-
-<pre>
-<b>
- _   _ ____    ____ ___  ____  _____ ____  
-| | | | __ )  / ___/ _ \|  _ \| ____/ ___| 
-| | | |  _ \ | |  | | | | | | |  _| \___ \ 
-| |_| | |_) || |__| |_| | |_| | |___ ___) |
- \___/|____/  \____\___/|____/|_____|____/ 
-</b>
-</pre>
-
-<p><code>? Consistency is a Superpower | DevOps Engineer & Automation Enthusiast</code></p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Automation+Enthusiast;Building+in+Public+%40+KodNest;Python+%2B+Docker+%2B+Kubernetes+%2B+CI%2FCD;Chasing+a+MAANG+SDE+Role" alt="Typing SVG" />
-</p>
-
-<p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ubada-devops.ubada-devops" alt="Profile Views" />
-</p>
-
-<p>
-  <a href="https://github.com/ubada-devops/ubada-devops/stargazers">
-    <img src="https://img.shields.io/github/stars/ubada-devops/ubada-devops?style=for-the-badge&color=yellow" alt="Stars" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" alt="Open to Work" />
-</p>
-
-<br>
-
-<h3><code>$ click_me --connect</code></h3>
-
-<p>
-  <a href="https://syed-Ubada.vercel.app" target="_blank">
-    <img src="./portfolio.svg" alt="Portfolio" width="48" height="48" />
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ubada-devops" target="_blank">
     <img src="./linkedin.svg" alt="LinkedIn" width="48" height="48" />
