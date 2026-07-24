@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=150&section=header&text=&fontColor=ffffff" width="100%"/>
+
 <pre>
 <b>
  _   _ ____    ____ ___  ____  _____ ____  
@@ -16,6 +18,8 @@
 
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ubada-devops.ubada-devops" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ubada-devops?label=Followers&style=social" alt="Followers" />
 </p>
 
 <p>
@@ -24,6 +28,14 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" alt="Open to Work" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20Coffee-yellow?style=for-the-badge" alt="Made with Python and Coffee" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/date/1728000000?label=Active%20on%20GitHub%20since&style=flat-square" alt="Active since" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ubada-devops&label=Public%20Repos&query=$.public_repos&style=flat-square" alt="Public Repos" />
 </p>
 
 <br>
@@ -163,6 +175,12 @@ DevOps-focused engineer transitioning into full-stack + Gen AI development, aimi
   <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="45" height="45"/>
 </p>
 
+<p><b>Deployed On</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages" />
+</p>
+
 <br><br>
 
 <!-- ============ INFO SECTION: SKILLS MATRIX ============ -->
@@ -217,6 +235,15 @@ DevOps-focused engineer transitioning into full-stack + Gen AI development, aimi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubada-devops&theme=github-dark&hide_border=true" alt="Activity Graph" width="48%" />
 </p>
 
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubada-devops&theme=github_dark" alt="Summary Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ubada-devops&theme=github_dark" alt="Most Commit Language" width="48%" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubada-devops&theme=github-compact&hide_border=true&custom_title=Isometric+Contribution+View" alt="Isometric Contribution View" width="90%" />
+</p>
+
 <br><br>
 
 <h3><code>$ ls -la ~/achievements</code></h3>
@@ -255,6 +282,12 @@ DevOps-focused engineer transitioning into full-stack + Gen AI development, aimi
     <td>In planning</td>
   </tr>
 </table>
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/ubada-devops/ubada-devops?style=flat-square&label=Last%20Commit" alt="Last Commit" />
+  &nbsp;
+  <img src="https://img.shields.io/github/repo-size/ubada-devops/ubada-devops?style=flat-square&label=Repo%20Size" alt="Repo Size" />
+</p>
 
 <br><br>
 
@@ -385,10 +418,18 @@ Came in with a DevOps specialization from college, then added Python Full Stack 
 
 <!-- ============ INFO SECTION: CHANGELOG ============ -->
 <h3><code>$ cat ~/CHANGELOG.md</code></h3>
-<p><sub>Last significant update: added career objective, education, skills matrix, project portfolio, and achievements sections.</sub></p>
+<p><sub>Last significant update: added visual banners, summary cards, and repo/commit badges.</sub></p>
 
 <br><br>
 
 <p><code>$ shutdown -h now "Thanks for visiting! Keep building."</code></p>
+
+<p>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-238636?style=flat-square" alt="Back to top" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
