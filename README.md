@@ -4,16 +4,19 @@
 
 <p>
   <a href="https://dev-folio-lite.vercel.app/" target="_blank">
-    <img src="https://img.shields.org/badge/Portfolio-dev--folio--lite.vercel.app-121013?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <kbd>?? Portfolio</kbd>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/ubada-devops" target="_blank">
-    <img src="https://img.shields.org/badge/LinkedIn-ubada--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <kbd>?? LinkedIn</kbd>
   </a>
+  &nbsp;
   <a href="https://x.com/Ubada_DevOps" target="_blank">
-    <img src="https://img.shields.org/badge/X-@Ubada__DevOps-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <kbd>?? X / Twitter</kbd>
   </a>
+  &nbsp;
   <a href="mailto:ubada.devops@gmail.com">
-    <img src="https://img.shields.org/badge/Email-ubada.devops@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <kbd>?? Email</kbd>
   </a>
 </p>
 
