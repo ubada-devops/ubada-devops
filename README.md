@@ -1,10 +1,23 @@
 <div align="center">
 
-<h3><code>$ cat contributions.log</code></h3>
+<h3><code>$ connect --all</code></h3>
 
-<img src="./graph.svg" alt="Animated Contribution Graph" width="100%" />
+<p>
+  <a href="https://dev-folio-lite.vercel.app/" target="_blank">
+    <img src="https://img.shields.org/badge/Portfolio-dev--folio--lite.vercel.app-121013?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ubada-devops" target="_blank">
+    <img src="https://img.shields.org/badge/LinkedIn-ubada--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Ubada_DevOps" target="_blank">
+    <img src="https://img.shields.org/badge/X-@Ubada__DevOps-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:ubada.devops@gmail.com">
+    <img src="https://img.shields.org/badge/Email-ubada.devops@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br><br>
+<br>
 
 <h3><code>$ whoami --verbose</code></h3>
 
