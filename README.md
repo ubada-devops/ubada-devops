@@ -44,4 +44,23 @@
   </tr>
 </table>
 
+<br><br>
+
+<!-- Interactive Terminal Guestbook -->
+<h3><code>$ gh issue create --label "guestbook"</code></h3>
+
+<a href="https://github.com/ubada-devops/ubada-devops/issues/new?title=Guestbook+Entry%3A+Hello%21&body=Leave+a+message%2C+feedback%2C+or+just+say+hi%21+%F0%9F%91%8B" target="_blank">
+  <table border="1" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" padding="10">
+        <code>$ echo "Leave your mark in the guestbook!"</code>
+        <br>
+        <b>?? Drop a Message / Sign Guestbook</b>
+        <br>
+        <sub>Click here to open a quick GitHub Issue & say hello ??</sub>
+      </td>
+    </tr>
+  </table>
+</a>
+
 </div>
