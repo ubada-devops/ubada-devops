@@ -21,15 +21,25 @@
 
 <br>
 
-<!-- 4. Native Terminal Social Buttons (Zero External Server Dependency) -->
+<!-- 4. Click Me Heading & High-Visibility Brand Badges -->
+<h3><code>$ click_me --connect</code></h3>
+
 <p>
-  <a href="https://syed-Ubada.vercel.app" target="_blank"><kbd>?? Portfolio</kbd></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/ubada-devops" target="_blank"><kbd>?? LinkedIn</kbd></a>
-  &nbsp;
-  <a href="https://x.com/Ubada_DevOps" target="_blank"><kbd>?? X / Twitter</kbd></a>
-  &nbsp;
-  <a href="mailto:ubada.devops@gmail.com"><kbd>?? Email</kbd></a>
+  <a href="https://syed-Ubada.vercel.app" target="_blank">
+    <img src="https://img.shields.org/badge/Portfolio-DevFolio--Lite-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ubada-devops" target="_blank">
+    <img src="https://img.shields.org/badge/LinkedIn-ubada--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Ubada_DevOps" target="_blank">
+    <img src="https://img.shields.org/badge/X-@Ubada__DevOps-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ubada.devops@gmail.com">
+    <img src="https://img.shields.org/badge/Email-ubada.devops@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <br>
@@ -49,7 +59,7 @@
 
 <br><br>
 
-<!-- 6. Terminal System Info Section (ASCII Portrait + sysinfo.svg) -->
+<!-- 6. Terminal System Info Section -->
 <h3><code>$ whoami --verbose</code></h3>
 
 <table border="0">
@@ -65,34 +75,33 @@
 
 <br><br>
 
-<!-- 7. Verified Devicon Stack Matrix -->
+<!-- 7. Verified Tech Stack Matrix -->
 <h3><code>$ list --tools --stack</code></h3>
 
 <p><b>Core Languages & Scripting</b></p>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
 </p>
 
 <p><b>DevOps, Cloud & Infrastructure</b></p>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="45" height="45"/>
 </p>
 
 <p><b>Developer Tools & Environment</b></p>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="45" height="45"/> &nbsp;
   <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="45" height="45"/>
 </p>
 
