@@ -134,7 +134,7 @@ DevOps-focused engineer transitioning into full-stack + Gen AI development, aimi
   <tr>
     <td><b>Python Full Stack with Gen AI Tools</b></td>
     <td align="center">
-      <img src="https://my.kodnest.com/static/media/kodnest-logo.67c5220c4c47bb634c03.png" alt="KodNest Logo" height="35" />
+      <img src="https://kodnest.com/assets/kodnest-logo-RT8Q7clI.png" alt="KodNest Logo" height="35" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Format-Offline%20(Bangalore)-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
