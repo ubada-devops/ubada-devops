@@ -1,16 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 235" width="460" height="235">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 250" width="460" height="250">
   <style>
     .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; }
     .header { font-family: monospace; font-size: 12px; fill: #8b949e; }
+    .status-text { font-family: monospace; font-size: 11px; font-weight: bold; fill: #23d160; }
     .key { font-family: monospace; font-size: 13px; font-weight: bold; }
     .val { font-family: monospace; font-size: 13px; }
     @keyframes fadeIn { to { opacity: 1; } }
+    @keyframes pulse {
+      0% { r: 4px; opacity: 1; }
+      70% { r: 9px; opacity: 0; }
+      100% { r: 4px; opacity: 0; }
+    }
+    .ping-ring { animation: pulse 2s infinite ease-out; stroke: #23d160; stroke-width: 1.5px; fill: none; }
   </style>
   <rect width="100%" height="100%" class="bg" rx="6" />
+  <!-- Terminal Window Controls -->
   <circle cx="20" cy="20" r="5" fill="#ff5f56" />
   <circle cx="35" cy="20" r="5" fill="#ffbd2e" />
   <circle cx="50" cy="20" r="5" fill="#27c93f" />
   <text x="70" y="24" class="header">ubada-devops@terminal ~ sysinfo</text>
+  <!-- Live Status Pulse Badge (Top Right) -->
+  <circle cx="375" cy="20" r="4" fill="#23d160" />
+  <circle cx="375" cy="20" class="ping-ring" />
+  <text x="387" y="24" class="status-text">ONLINE</text>
   <line x1="0" y1="38" x2="100%" y2="38" stroke="#30363d" stroke-width="1" />
   <g class="row" style="opacity: 0; animation: fadeIn 0.5s forwards 0.2s;">
     <text x="20" y="70" class="key" fill="#79c0ff">user    :</text>
