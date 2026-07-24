@@ -74,6 +74,66 @@
 
 <br><br>
 
+<!-- ============ INFO SECTION: CAREER OBJECTIVE ============ -->
+<h3><code>$ cat ~/objective.txt</code></h3>
+<div align="left" style="display:inline-block; width:90%;">
+<p>
+DevOps-focused engineer transitioning into full-stack + Gen AI development, aiming to land an SDE role at a MAANG-level company. Brings a systems/automation mindset to application development - comfortable across the deployment pipeline, not just the code.
+</p>
+</div>
+
+<br><br>
+
+<!-- ============ INFO SECTION: EDUCATION ============ -->
+<h3><code>$ cat ~/education.log</code></h3>
+
+<table border="1" style="border-collapse: collapse; width: 90%;">
+  <tr>
+    <th align="left">DEGREE</th>
+    <th align="left">SPECIALIZATION</th>
+    <th align="left">INSTITUTION</th>
+  </tr>
+  <tr>
+    <td>BTech, Computer Science</td>
+    <td>DevOps</td>
+    <td>Presidency University</td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- ============ INFO SECTION: CURRENT TRAINING ============ -->
+<h3><code>$ systemctl status current-training</code></h3>
+
+<table border="1" style="border-collapse: collapse; width: 90%;">
+  <tr>
+    <th align="left">PROGRAM</th>
+    <th align="left">FORMAT</th>
+    <th align="left">FOCUS</th>
+  </tr>
+  <tr>
+    <td>Python Full Stack with Gen AI Tools</td>
+    <td>Offline, KodNest - Bangalore</td>
+    <td>Python, Full Stack Dev, Generative AI tooling</td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- ============ INFO SECTION: JOURNEY TIMELINE ============ -->
+<h3><code>$ git log --oneline --graph ~/career</code></h3>
+<div align="left" style="display:inline-block;">
+
+* **BTech CS (DevOps)** - graduated from Presidency University
+* **~6 months self-directed job search** - 1,500+ applications, multiple final-round rejections
+* **Joined KodNest** - Python Full Stack with Gen AI Tools, offline, Bangalore
+* **Started documenting the journey publicly on LinkedIn** - daily posts from Day 1
+* **Currently** - building projects, practicing DSA, prepping for MAANG-track interviews
+
+</div>
+
+<br><br>
+
 <h3><code>$ list --tools --stack</code></h3>
 
 <p><b>Core Languages & Scripting</b></p>
@@ -105,6 +165,47 @@
 
 <br><br>
 
+<!-- ============ INFO SECTION: SKILLS MATRIX ============ -->
+<h3><code>$ cat ~/skills_matrix.log</code></h3>
+
+<table border="1" style="border-collapse: collapse; width: 90%;">
+  <tr>
+    <th align="left">AREA</th>
+    <th align="left">SKILL</th>
+    <th align="left">LEVEL</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Languages</td>
+    <td>Python</td>
+    <td>Comfortable</td>
+  </tr>
+  <tr>
+    <td>JavaScript / HTML / CSS</td>
+    <td>Comfortable</td>
+  </tr>
+  <tr>
+    <td rowspan="3">DevOps</td>
+    <td>Git & GitHub</td>
+    <td>Strong</td>
+  </tr>
+  <tr>
+    <td>Docker</td>
+    <td>Comfortable</td>
+  </tr>
+  <tr>
+    <td>Kubernetes</td>
+    <td>Familiar - in progress</td>
+  </tr>
+  <tr>
+    <td>Foundations</td>
+    <td>DSA (Arrays, Stack, Queue, Linked List, Trees, Graphs)</td>
+    <td>Building - Blind 75 track</td>
+  </tr>
+</table>
+<p><sub>Self-assessed levels - updated as skills develop through the KodNest track.</sub></p>
+
+<br><br>
+
 <h3><code>$ cat /proc/github_stats</code></h3>
 
 <p>
@@ -122,6 +223,38 @@
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=ubada-devops&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
+<br><br>
+
+<!-- ============ INFO SECTION: PROJECT PORTFOLIO ============ -->
+<h3><code>$ ls ~/projects --detailed</code></h3>
+
+<table border="1" style="border-collapse: collapse; width: 90%;">
+  <tr>
+    <th align="left">PROJECT</th>
+    <th align="left">STACK</th>
+    <th align="left">DESCRIPTION</th>
+    <th align="left">LINK</th>
+  </tr>
+  <tr>
+    <td>Husni Amliyat Website</td>
+    <td>HTML, CSS, JS</td>
+    <td>Single-page site for a spiritual healer business - Islamic design motifs, 12 services, WhatsApp booking form, 3-language toggle (EN/KN/UR with RTL), WCAG AA contrast, PWA support</td>
+    <td><a href="https://husni-amliyat.vercel.app">Live</a></td>
+  </tr>
+  <tr>
+    <td>Portfolio v2</td>
+    <td>Web</td>
+    <td>Personal portfolio site</td>
+    <td><a href="https://syed-Ubada.vercel.app">Live</a></td>
+  </tr>
+  <tr>
+    <td>HRFlow (concept)</td>
+    <td>SaaS planning stage</td>
+    <td>HR/workforce-management concept for Indian SMBs (20-200 employees) underserved by spreadsheets - planned as a post-placement side project</td>
+    <td>In planning</td>
+  </tr>
+</table>
 
 <br><br>
 
@@ -170,6 +303,46 @@
 
 <br><br>
 
+<!-- ============ INFO SECTION: ACHIEVEMENTS ============ -->
+<h3><code>$ cat ~/achievements.log</code></h3>
+<div align="left" style="display:inline-block;">
+
+- Grew LinkedIn "Learning in Public" series to 27,000+ impressions and 500+ new connections in under a month
+- Chose a DevOps specialization as a deliberate resume differentiator among fresher applicants
+- Persisted through a 6-month, 1,500+ application job search before restarting with a structured training path
+
+</div>
+
+<br><br>
+
+<!-- ============ INFO SECTION: WORK PHILOSOPHY ============ -->
+<h3><code>$ cat ~/philosophy.txt</code></h3>
+<div align="left" style="display:inline-block; width:90%;">
+<p>
+Believes in learning in public - documenting progress daily rather than waiting until "ready." Approaches new tools with a systems/automation lens first, application logic second. Prioritizes placement readiness above side projects and freelancing until that goal is met.
+</p>
+</div>
+
+<br><br>
+
+<!-- ============ INFO SECTION: AVAILABILITY & CONTACT PREFS ============ -->
+<h3><code>$ cat ~/availability.conf</code></h3>
+
+<table border="1" style="border-collapse: collapse; width: 90%;">
+  <tr>
+    <th align="left">STATUS</th>
+    <th align="left">LOOKING FOR</th>
+    <th align="left">BEST CONTACT</th>
+  </tr>
+  <tr>
+    <td>Open to opportunities</td>
+    <td>SDE roles (fresher / entry-level)</td>
+    <td><a href="mailto:ubada.devops@gmail.com">Email</a> for work, <a href="https://linkedin.com/in/ubada-devops">LinkedIn</a> for networking</td>
+  </tr>
+</table>
+
+<br><br>
+
 <h3><code>$ ps aux | grep building</code></h3>
 <p>Currently shipping features on the KodNest Gen-AI Full Stack track, documenting the journey live on LinkedIn, and prepping for SDE interviews.</p>
 
@@ -202,10 +375,20 @@ Landing an SDE role at a top-tier tech company, backed by daily DSA practice and
 <br>
 Selectively - feel free to reach out via email or LinkedIn.
 </details>
+<details>
+<summary>Why DevOps + Full Stack together?</summary>
+<br>
+Came in with a DevOps specialization from college, then added Python Full Stack + Gen AI training on top of it - the goal is to be someone who understands the whole delivery pipeline, not just application code.
+</details>
+
+<br><br>
+
+<!-- ============ INFO SECTION: CHANGELOG ============ -->
+<h3><code>$ cat ~/CHANGELOG.md</code></h3>
+<p><sub>Last significant update: added career objective, education, skills matrix, project portfolio, and achievements sections.</sub></p>
 
 <br><br>
 
 <p><code>$ shutdown -h now "Thanks for visiting! Keep building."</code></p>
-<p><sub>Last updated: auto-generated via GitHub Actions</sub></p>
 
 </div>
